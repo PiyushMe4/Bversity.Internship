@@ -22,8 +22,7 @@ Linezolid, a protein synthesis inhibitor, is used for effective treatment for MR
 - Conversion to standard format (e.g: SMILES, SDF).
 - Structural normalization.
     
-2. **Feature extraction** :
-- Calculation of 2D and 3D molecular descriptors
+2. **Feature extraction** : Calculation of 2D and 3D molecular descriptors
 3. **Similarity analysis** : Scoring based on Tanimoto (2D) and RMSD (3D).
 4. **Visualization** : Scatter plots and heatmaps for interpretability.
 5. **Filtering** : Shortlisting compounds with high similarity scores (__Blue__) (e.g: Tanimoto score - 0.92)
